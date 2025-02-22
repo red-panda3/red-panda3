@@ -20,4 +20,5 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=red-panda3&" alt="red-panda3" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=red-panda3&show_icons=true&locale=en&layout=compact" alt="red-panda3" /></p>
